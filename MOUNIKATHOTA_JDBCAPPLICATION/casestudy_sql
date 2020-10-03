@@ -1,3 +1,0 @@
-create database casestudy;
-use casestudy;
-create table Book(Isbn int primary key,BookName varchar(20),AuthorName varchar(20),Edition int);
